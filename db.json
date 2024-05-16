@@ -1,0 +1,24 @@
+{
+    "film": [
+        {
+            "name": "Harry Potter",
+            "genre": "Fantasy",
+            "published": "2000"
+        },
+        {
+            "name": "Goal",
+            "genre": "Sport",
+            "published": "2010"
+        },
+        {
+            "name": "Now You See Me",
+            "genre": "Fantasy",
+            "published": "2015"
+        },
+        {
+            "name": "Fast Furious",
+            "genre": "Action",
+            "published": "2010"
+        }
+    ]
+}
